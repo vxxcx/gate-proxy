@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/gate/:match*",
-      "destination": "https://api.gate.io/:match*"
-    }
-  ]
-}
